@@ -1,16 +1,16 @@
-# Used Cars in the United States
+# Used Cars in the United States: A Visualization Analysis
 
 
-<img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/UsedCars-Viz/p-1.png" width="500"/> 
-<img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/UsedCars-Viz/p-2.png" width="500"/> 
-<img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/UsedCars-Viz/p-3.png" width="500"/> 
-<img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/UsedCars-Viz/p-4.png" width="500"/> 
-<img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/UsedCars-Viz/p-5.png" width="500"/> 
-<img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/UsedCars-Viz/p-6.png" width="500"/> 
-<img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/UsedCars-Viz/p-7.png" width="500"/> 
-<img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/UsedCars-Viz/p-8.png" width="500"/> 
-<img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/UsedCars-Viz/p-9.png" width="500"/> 
-<img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/UsedCars-Viz/p-10.png" width="500"/> 
+<img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/UsedCars-Viz/p-1.png" width="650"/> 
+<img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/UsedCars-Viz/p-2.png" width="650"/> 
+<img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/UsedCars-Viz/p-3.png" width="650"/> 
+<img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/UsedCars-Viz/p-4.png" width="650"/> 
+<img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/UsedCars-Viz/p-5.png" width="650"/> 
+<img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/UsedCars-Viz/p-6.png" width="650"/> 
+<img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/UsedCars-Viz/p-7.png" width="650"/> 
+<img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/UsedCars-Viz/p-8.png" width="650"/> 
+<img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/UsedCars-Viz/p-9.png" width="650"/> 
+<img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/UsedCars-Viz/p-10.png" width="650"/> 
 
 
 ## Content
