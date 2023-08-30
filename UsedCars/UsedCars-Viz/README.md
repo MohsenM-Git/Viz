@@ -1,5 +1,5 @@
-# Walmart Sales: A Time Series Analysis
-## Part I: Data Exploration 
+# Used Cars in the United States
+
 
 <img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/UsedCars-Viz/p-1.png" width="500"/> 
 <img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/UsedCars-Viz/p-2.png" width="500"/> 
