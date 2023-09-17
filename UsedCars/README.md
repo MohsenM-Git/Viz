@@ -1,6 +1,6 @@
 # Used Cars in the United States: A Visualization Analysis
 
-<img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/Images/p-1.png" width="600"/> 
+<img src="https://github.com/MohsenM-Git/Viz/blob/main/UsedCars/Images/p-1.png" width="850"/> 
 
 
 ## Content
